@@ -10,7 +10,7 @@ webver02 : 문제 보완
 font-display: swap 추가: 웹 폰트가 사용 가능하지 않을 때에도 브라우저가 기본 글꼴을 사용하도록 하기
 Safari에서 폰트를 로드하지 않는 문제가 있을 수도 있으므로 <link> 태그에 rel="stylesheet" 속성을 명시적으로 지정 
 ```
-webver03 : <style> 영역을 css 파일로 분리하여 개별 적용하기로 변환해보기
+webver03 : <style> 영역을 css 파일로 분리하여 개별 적용하기로 변환해보기, 보완된 필터 적용 및 항목 시각효과 추가
 ```
-000
+여러 태그를 활용, flex의 도입, hover / opacity의 활용...
 ```
